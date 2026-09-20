@@ -1,0 +1,59 @@
+Quiz Results
+
+Number of Players: 1
+Score: 3
+Question Count: 10
+
+Question-wise Results:
+
+Question 1: Which programming language shares its name with an island in Indonesia?
+Correct Answer: Java
+User Answer: 
+Result: Incorrect
+
+Question 2: In "Jewelpet Sunshine", what is the song that plays when Kanon and her friends bust out of prison?
+Correct Answer: I Don't Want to Miss a Thing
+User Answer: 
+Result: Incorrect
+
+Question 3: Steel is an alloy of Iron and Carbon.
+Correct Answer: True
+User Answer: 
+Result: Incorrect
+
+Question 4: There is only 1 root name server, among 13 in total, that is currently located in Asia.
+Correct Answer: True
+User Answer: 
+Result: Incorrect
+
+Question 5: How much horsepower is produced by the SD40-2 Locomotive?
+Correct Answer: 3,000
+User Answer: 
+Result: Incorrect
+
+Question 6: Which former US president used "Let's Make America Great Again" as his campaign slogan before Donald Trump's campaign?
+Correct Answer: Ronald Reagan
+User Answer: 
+Result: Incorrect
+
+Question 7: Which is not a playable character in the 2005 video game Killer7?
+Correct Answer: Frank Smith
+User Answer: 
+Result: Incorrect
+
+Question 8: Which of the following is NOT a real element?
+Correct Answer: Vitrainium
+User Answer: 
+Result: Incorrect
+
+Question 9: Which of the following actors has only been in a Quentin Tarantino directed film once?
+Correct Answer: John Travolta
+User Answer: 
+Result: Incorrect
+
+Question 10: Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?
+Correct Answer: Fantastic Four (2015)
+User Answer: 
+Result: Incorrect
+
+Final Score: (3, 30, 0, 0)
