@@ -8,6 +8,14 @@ Created by **Ivanna Poltavets** as a learning and portfolio project.
 
 The browser adaptation was created with ChatGPT assistance and has an updated interface. This repository contains the original Python desktop application; the browser version is a separate implementation.
 
+## Screenshots
+
+### Start window
+![Python Quiz start window](docs/screenshots/start-window.png)
+
+### Quiz screen
+![Python Quiz gameplay screen](docs/screenshots/quiz-screen.png)
+
 ## Features
 
 - Single-player mode and local two-player mode on the same computer.
